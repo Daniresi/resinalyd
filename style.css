@@ -106,12 +106,13 @@ a:hover{
 
 .pqn{
     font-size: 1.5em;
+    color: black;
 }
 
 
 .sub{
     font-size: 1.03em;
-    
+    color:black
 }
 
 
@@ -173,5 +174,6 @@ footer{
 
 #contacto{
     font-size: 80%;
+    color: black;
 }
 
