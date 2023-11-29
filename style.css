@@ -101,6 +101,7 @@ a:hover{
     padding: 1%;
     margin-left: 10%;
     margin-right: 10%;
+    color: black;
 }
 
 
@@ -165,6 +166,7 @@ h3{
 
 
 footer{
+    color: black;
     width: 100%;
     text-align: center;
     box-shadow: 0 0 10px black, 0 0 10px rgb(255, 0, 191) inset;
